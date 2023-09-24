@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Define and initialize the variables
+POWER=10
+DIVIDE=2
+
+# Perform the division and echo the result
+echo $(($POWER / $DIVIDE))
